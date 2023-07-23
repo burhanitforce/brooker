@@ -31,7 +31,6 @@ Install Tech-Admin With Simple Steps
 
 ```bash
 git clone https://github.com/TechTool-India/techtool-laravel-admin.git
-cd techtool-laravel-admin
 ```
 
 Install All Packages of laravel
@@ -67,14 +66,3 @@ Login With Admin
 Username - admin@admin.com
 Password - Admin@123#
 ```
-## Screenshots
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53d53unbwjsvz2t0npan.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp9vfllktg4gyarwqq84.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijs2pn14sroqt37n6nq9.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5w9yy33y0fspnnl68t0m.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5p71gck63r039mk6jix.png)
